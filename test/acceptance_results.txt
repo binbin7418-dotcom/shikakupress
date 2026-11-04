@@ -1,0 +1,11 @@
+[PASS] counts: 6 puzzles (6)
+[PASS] sizes follow difficulty (6/8/10) ([6, 8, 10, 6, 8, 10])
+[PASS] every puzzle: exactly one tiling (independent checker), equal to printed solution 
+[PASS] rectangle audit: tiling exact, one clue per rectangle, clue number == rectangle area 
+[PASS] rectangles were actually cut (not one giant piece) (rects: [7, 7, 12, 7, 8, 11])
+[PASS] tamper check: one altered clue breaks the uniqueness proof (tampered puzzle now has 0 tilings)
+[PASS] PDF 612x792pt, pages = title + 6 puzzles + solutions header + 6 solutions (14 pages)
+[PASS] 6-puzzle mixed book builds in under 120s (8.7s)
+[PASS] deterministic for fixed seed 
+
+9/9 PASS
